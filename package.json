@@ -1,0 +1,22 @@
+{
+  "name": "graph-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:index": "nodemon index.js",
+    "json:index": "json-server --watch data.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "json-server": "^0.12.2",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.1"
+  }
+}
