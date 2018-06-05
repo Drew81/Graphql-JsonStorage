@@ -1,3 +1,7 @@
-# Local-Storage-Graphql
-# Graphql-LocalStorage
-# Graphql-LocalStorage
+# 
+# Graphql-JsonStorage
+# 
+
+Install NPM
+run npm install
+
